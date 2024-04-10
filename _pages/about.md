@@ -9,4 +9,4 @@ redirect_from:
 ---
 I'm a third year undergraduate student from [School of Al and Advanced Computing](https://www.xjtlu.edu.cn/zh/study/departments/school-of-ai-and-advanced-computing/), [Xi'an Jiaotong-Liverpool University](https://scholar.xjtlu.edu.cn/en/). My reseach  includes computer vision, specificly on medical image analysis.
 
-You can find my CV here: [Curriculum_Vitae](Curriculum_Vitae.pdf)
+You can find my CV here: [Curriculum_Vitae](resume.pdf)
